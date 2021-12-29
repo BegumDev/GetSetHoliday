@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
 }
 /*------------------------------------------------------Active links-------*/
 
@@ -95,6 +96,10 @@
 }
 #about-us{
     text-align: center;
+    padding: 0 20px;
+}
+.about-us-reasons-heading{
+    color: blanchedalmond;
 }
 #about-us ul{
     display: inline-block;
