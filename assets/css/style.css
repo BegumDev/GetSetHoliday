@@ -213,3 +213,18 @@ hr{
     height: 100px;
     background-color: rgb(11, 240, 240);
 }
+#partner-info ul{
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+#social-media-info ul{
+    list-style: none;
+    float: right;
+    text-align: center;
+}
+#address-info ul{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+}
