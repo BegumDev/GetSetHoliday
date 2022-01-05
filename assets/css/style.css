@@ -171,6 +171,30 @@ html{
     padding: 3px;
 }
 
+/*---------------------------------------------------------------------------------------------------------Contact Section Style------------------*/
+
+#contact-section-style{
+    height: 800px;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1544473244-f6895e69ad8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.contact-box{
+    height: 600px;
+    width: 300px;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    background-color: rgb(114, 216, 247);
+    opacity: 0.4;
+    padding-top: 20px;
+}
+
+
+
 /************************************************************************************************************************************************/
 /*
 *{
