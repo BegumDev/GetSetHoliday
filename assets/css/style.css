@@ -174,25 +174,49 @@ html{
 /*---------------------------------------------------------------------------------------------------------Contact Section Style------------------*/
 
 #contact-section-style{
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     background-image: url("https://images.unsplash.com/photo-1544473244-f6895e69ad8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    padding: 20px;
+}
+#contact-section-style h1{
+    text-align: center;
+    color: blanchedalmond;
+}
+.ways-of-contact{
+    margin: 0 auto;
+}
+.contact-us-options{
+    text-align: center;
+    color: #ffffff;
+}
+.contact-us-options li{
+    list-style: none;
+}
+.opening-times{
+    border: 2px solid #777777;
+    margin: 0 auto;
+    font-size: 15px;
+}
+.border{
+    border: 2px solid #777777;
 }
 .contact-box{
     height: 800px;
     width: 300px;
     border: 2px solid #ffffff;
-    background-color: rgb(114, 216, 247);
-    opacity: 0.4;
-    padding: 20px;
+    background: rgb(114, 216, 247, 0.6);
+    margin: 0 auto;
+    padding: 30px;
 }
 .labels{
     text-align: center;
     margin: 10px 0 0 10px;
     text-transform: uppercase;
+    color: black;
 }
 .input-box{
     width: 200px;
