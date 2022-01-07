@@ -39,11 +39,9 @@ html{
     border-bottom: 2px solid #777777;
 }
 
-
-
 /*---------------------------------------------------------------------------------------------------------Section Style------------------*/
 #section-style{
-    height: 1800px;
+    height: 1900px;
     width: 100%;
     background-color: rgb(60, 185, 243);
 }
@@ -194,7 +192,6 @@ html{
 }
 .footer-info li{
     list-style: none;
-    float: left;
     padding: 3px;
 }
 
@@ -215,6 +212,10 @@ html{
 }
 .ways-of-contact{
     margin: 0 auto;
+}
+#email-us p{
+    font-size: 14px;
+    margin-left: -5px;
 }
 .contact-us-options{
     text-align: center;
