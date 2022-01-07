@@ -9,27 +9,31 @@ html{
 #header-style{
     height: 150px;
     width: 100%;
-    background-color: cadetblue;
+    background-color:  rgb(145, 212, 243);
 }
 .logo h2{
     font-size: 40px;
     text-align: center;
     margin: 20px;
+    color: #ffffff;
 }
 .logo a{
     text-decoration: none;
+    color: #ffffff;
 }
 .menu{
     text-align: center;
-}
-.menu ul{
-    
+    margin-top: -15px;
 }
 .menu li{
     list-style: none;
+    display: inline;
+    margin: 5px;
 }
 .menu a{
     text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
 }
 .menu a:hover{
     border-bottom: 2px solid #777777;
@@ -41,17 +45,40 @@ html{
 #section-style{
     height: 1800px;
     width: 100%;
-    background-color: rgb(60, 243, 173);
+    background-color: rgb(60, 185, 243);
+}
+#who-are-we-img{
+    height: 300px;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: #ffffff;
+}
+#who-are-we-img h3{
+    padding-top: 20px;
+    text-align: center;
 }
 .about-us{
     text-align: center;
+    color: #ffffff;
+}
+.about-us h3{
+    padding-top: 20px;
+}
+.main-page-deals{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(145, 212, 243);
+    padding-top: 20px;
 }
 .deals-box{
     height: 300px;
     width: 300px;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    border: 2px solid white;
+    border: 3px solid white;
     margin: 10px;
     text-align: center;
 }
