@@ -41,7 +41,7 @@ html{
 
 /*---------------------------------------------------------------------------------------------------------Section Style------------------*/
 #section-style{
-    height: 1900px;
+    height: 3200px;
     width: 100%;
     background-color: rgb(60, 185, 243);
 }
@@ -58,6 +58,12 @@ html{
     padding-top: 20px;
     text-align: center;
 }
+.who-are-we-info p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 26px;
+    padding: 10px;
+}
 .about-us{
     text-align: center;
     color: #ffffff;
@@ -66,7 +72,7 @@ html{
     padding-top: 20px;
 }
 .main-page-deals{
-    height: 1000px;
+    height: 1100px;
     width: 100%;
     background-color: rgb(145, 212, 243);
     padding-top: 20px;
@@ -77,7 +83,6 @@ html{
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
     border: 3px solid white;
-    margin: 10px;
     text-align: center;
 }
 /*--------------------------------------------------------------Bali Main Deal----------*/
@@ -89,6 +94,7 @@ html{
     background: url("https://pix10.agoda.net/hotelImages/5673739/0/84a6695df6d88a1bdaf2b5e5f4abfc5f.jpg?s=1024x768") no-repeat center center;
     background-size: 300px 180px;
     background-position-y: -20px;
+    margin: 15px auto;
 }
 #bali h3{
     margin-top: 100px;
@@ -126,6 +132,7 @@ html{
     background: url("https://hi-cdn.t-rp.co.uk/images/hotels/117372/0?width=750&height=400&crop=true") no-repeat center center;
     background-size: 300px 180px;
     background-position-y: -20px;
+    margin: 15px auto;
 }
 #tenerife h3{
     margin-top: 100px;
@@ -156,6 +163,7 @@ html{
     background: url("https://www.flightspro.co.uk/wp-content/uploads/2021/02/dubai.jpeg") no-repeat center center;
     background-size: 300px 180px;
     background-position-y: -20px;
+    margin: 15px auto;
 }
 #dubai h3{
     margin-top: 100px;
@@ -180,8 +188,19 @@ html{
 .main-page-deals{
     margin: 0 auto;
 }
-
-
+.testimonial-section h4{
+    text-align: center;
+    color: rgb(255, 238, 0);
+}
+.testimonial{
+    height: 200px;
+    width: 100%;
+    border: 2px solid #777777;
+    box-shadow: 8px 8px white;
+    margin: 20px 10px;
+    padding: 10px;
+    text-align: center;
+}
 
 /*---------------------------------------------------------------------------------------------------------Footer Style------------------*/
 #footer-style{
