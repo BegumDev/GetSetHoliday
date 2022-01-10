@@ -41,7 +41,7 @@ html{
 
 /*---------------------------------------------------------------------------------------------------------Section Style------------------*/
 #section-style{
-    height: 3200px;
+    height: 3300px;
     width: 100%;
     background-color: rgb(60, 185, 243);
 }
@@ -188,7 +188,7 @@ html{
 .main-page-deals{
     margin: 0 auto;
 }
-.testimonial-section h6{
+.testimonial-section h4, h6{
     text-align: center;
     color: rgb(255, 238, 0);
 }
@@ -205,20 +205,21 @@ html{
     text-align: center;
 }
 .go-to-top-btn{
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     border-radius: 50%;
     border: 2px solid white;
-    float: right;
+    margin: 0 auto;
     position: relative;
     background-color: aquamarine;
-    opacity: 0.7;
+    opacity: 0.5;
+    position: sticky;
 }
 .go-to-top-btn a{
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     text-decoration: none;
-    padding: 8px;
+    padding: 9px;
 }
 
 /*---------------------------------------------------------------------------------------------------------Footer Style------------------*/
