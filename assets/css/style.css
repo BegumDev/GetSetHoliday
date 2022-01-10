@@ -311,20 +311,37 @@ html{
 /*----------------------------------------------------------------------------------------------------------deals.html Section Style------*/
 
 #deals-section{
-    height: 600px;
+    height: 4000px;
     width: 100%;
     background-color: aquamarine;
 }
 .preset-deals{
-    height: 300px;
+    height: 2000px;
     width: 100%;
     background-color: bisque;
 }
-.tailor-made-package{
+.deals-cards{
+    width: 300px;
     height: 300px;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    border: 2px solid #777777;
+    text-align: center;
+}
+.tailor-made-package{
+    height: 2000px;
     width: 100%;
     background-color: rgb(244, 255, 196);
 }
+.tailor-made-package h3{
+    text-align: center;
+}
+.tailor-made-package li{
+    list-style: none;
+}
+
+
+
 
 /************************************************************************************************************************************************/
 /*
