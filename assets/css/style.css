@@ -204,6 +204,22 @@ html{
     padding: 10px;
     text-align: center;
 }
+.go-to-top-btn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    float: right;
+    position: relative;
+    background-color: aquamarine;
+    opacity: 0.7;
+}
+.go-to-top-btn a{
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 8px;
+}
 
 /*---------------------------------------------------------------------------------------------------------Footer Style------------------*/
 #footer-style{
