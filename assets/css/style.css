@@ -292,8 +292,8 @@ html{
     border: 2px dotted;
 }
 #message{
-    height: 400px;
-    width: 200px;
+    /*height: 400px;
+    width: 200px;*/
     margin: 10px;
     border: 2px dotted;
 }

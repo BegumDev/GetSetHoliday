@@ -57,30 +57,60 @@
                     <h3>Help Me Build My Own Package</h3>
                 </div>
                 <div class="col-12">
-                    <h5>Its my....</h5>
-                    <ul>
-                        <li><input type="checkbox" id="family-holiday" name="family-holiday">
-                            <label for="family-holiday">Family Holiday</label>
-                        </li>
-                        <li><input type="checkbox" id="honeymoon" name="honeymoon">
-                            <label for="honeymoon">Honeymoon</label>
-                        </li>
-                        <li><input type="checkbox" id="short-break" name="short-break">
-                            <label for="short-break">Short Break</label>
-                        </li>
-                        <li><input type="checkbox" id="other" name="other">
-                            <label for="other">Other</label>
-                        </li>
-                    </ul>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
-                <div class="col-12"></div>
+                    <form action="#" method="post">
+                        <label for="holiday-type">"I want to go for a..."</label>
+                        <br>
+                        <select name="holiday-type" id="holiday-type">
+                            <option value="select">Please select from the list below...</option>
+                            <option value="family-holiday">Family Holiday</option>
+                            <option value="honeymoon">Honeymoon</option>
+                            <option value="short-break">Short Break</option>
+                            <option value="last-minute-getaway">Last Minute Getaway</option>
+                            <option value="surprise">Surprise Me</option>
+                            <option value="other">Other</option>
+                        </select>
+                        <br>
+                        <br>
+                        <label for="holiday-destination">"I would love to go to..."</label>
+                        <br>
+                        <select name="holiday-destination" id="holiday-destination">
+                            <option value="select">Please select from the list below...</option>
+                            <option value="disneyland">Disneyland - Paris</option>
+                            <option value="bali">Bali - Indonesia</option>
+                            <option value="maldives">The Maldives</option>
+                            <option value="rome">Rome - Italy</option>
+                            <option value="lisbon">Lisbon - Portugal</option>
+                            <option value="surprise">Surprise Me</option>
+                            <option value="other">Other</option>
+                        </select>
+                        <br>
+                        <br>
+                        <label for="holiday-duration">"I want to go for..."</label>
+                        <br>
+                        <select name="holiday-duration" id="holiday-duration">
+                            <option value="select">Please select from the list below...</option>
+                            <option value="3-nights">3 Nights</option>
+                            <option value="7-nights">7 nights</option>
+                            <option value="14-nights">14 nights</option>
+                            <option value="surprise">Surprise Me</option>
+                            <option value="other">Other</option>
+                        </select>
+                        <br>
+                        <br>
+                        <label for="holiday-budget">"My price-range is..."</label>
+                        <br>
+                        <select name="holiday-budget" id="holiday-budget">
+                            <option value="select">Please select from the list below...</option>
+                            <option value="under-£299pp">Under £299pp</option>
+                            <option value="£300-£499pp">£300 - £499pp</option>
+                            <option value="£500-£699">£500 - £699</option>
+                            <option value="other">Other</option>
+                        </select>
+                        <br>
+                        <br>
+                        <input type="submit" value="Let's Make It Happen!">
+                    </form>
+                </div>
             </div>
         </div>
     </section>
