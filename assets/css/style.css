@@ -39,7 +39,7 @@ html{
     border-bottom: 2px solid #777777;
 }
 
-/*---------------------------------------------------------------------------------------------------------Section Style------------------*/
+/*---------------------------------------------------------------------------------------------------------Section Style index.html------------------*/
 #section-style{
     height: 3300px;
     width: 100%;
@@ -76,6 +76,7 @@ html{
     width: 100%;
     background-color: rgb(145, 212, 243);
     padding-top: 20px;
+    margin: 0 auto;
 }
 .deals-box{
     height: 300px;
@@ -185,9 +186,8 @@ html{
 #dubai h5{
     color: rgba(214, 160, 23, 0.993);
 }
-.main-page-deals{
-    margin: 0 auto;
-}
+
+/*-------------------------------------------------------------------index.html Testimonial-------*/
 .testimonial-section h4,h6{
     text-align: center;
     color: rgb(255, 238, 0);
@@ -234,7 +234,7 @@ html{
     padding: 3px;
 }
 
-/*---------------------------------------------------------------------------------------------------------Contact Section Style------------------*/
+/*---------------------------------------------------------------------------------------------------------Contact.html Section Style------------------*/
 
 #contact-section-style{
     height: 1200px;
@@ -292,8 +292,6 @@ html{
     border: 2px dotted;
 }
 #message{
-    /*height: 400px;
-    width: 200px;*/
     margin: 10px;
     border: 2px dotted;
 }
@@ -308,7 +306,7 @@ html{
     background-color: rgb(255, 231, 20);
 }
 
-/*----------------------------------------------------------------------------------------------------------deals.html Section Style------*/
+/*------------------------------------------------------------------------------------------------------------------deals.html Section Style------*/
 
 #deals-section{
     height: 4000px;
@@ -328,10 +326,36 @@ html{
     border: 2px solid #777777;
     text-align: center;
 }
+
+/*---------------------------------------------------------------------------------------------------------------deals.html Preset Deals Style------*/
+
+
+#thailand{
+    height: 300px;
+    width: 300px;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    background: url("https://www.flightspro.co.uk/wp-content/uploads/2021/02/dubai.jpeg") no-repeat center center;
+    background-size: 300px 180px;
+    background-position-y: -20px;
+    margin: 15px auto;
+    padding-top: 160px;
+}
+.price-box{
+    height: 30px;
+    width: 60px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    float: right;
+    margin-top: -33px;
+}
+/*---------------------------------------------------------------------------------------------------------------deals.html Tailor-Made-Package Style------*/
+
 .tailor-made-package{
     height: 2000px;
     width: 100%;
     background-color: rgb(244, 255, 196);
+    text-align: center;
 }
 .tailor-made-package h3{
     text-align: center;
@@ -339,8 +363,6 @@ html{
 .tailor-made-package li{
     list-style: none;
 }
-
-
 
 
 /************************************************************************************************************************************************/
