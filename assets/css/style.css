@@ -155,7 +155,7 @@ html{
 #tenerife h5{
     color: rgba(214, 160, 23, 0.993);
 }
-/*--------------------------------------------------------------------------------------Dubai Main Deal---------------------------*/
+/*--------------------------------------------------------Dubai Main Deal----------------------*/
 #dubai{
     height: 300px;
     width: 300px;
@@ -188,7 +188,7 @@ html{
 }
 
 /*-------------------------------------------------------------------index.html Testimonial-------*/
-.testimonial-section h4,h6{
+.testimonial-section h4{
     text-align: center;
     color: rgb(255, 238, 0);
 }
@@ -232,6 +232,60 @@ html{
 .footer-info li{
     list-style: none;
     padding: 3px;
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------deals.html Section Style------*/
+
+#deals-section{
+    height: 3500px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+/*---------------------------------------------------------------------------------------------------------------deals.html Preset Deals Style------*/
+.preset-deals{
+    height: 2500px;
+    width: 100%;
+    background-color: rgb(165, 165, 231);
+    margin: 0 auto;
+}
+#thailand{
+    background: url("https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg") no-repeat center center;
+    background-size: 300px 180px;
+    background-position-y: -20px;
+    margin: 15px auto;
+    padding-top: 160px;
+}
+.price-box{
+    height: 30px;
+    width: 60px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    float: right;
+    margin-top: -33px;
+}
+#cape-town{
+    background: url("https://exp.cdn-hotels.com/hotels/21000000/20060000/20057200/20057126/7bbed2e4_z.jpg?impolicy=fcrop&w=500&h=333&q=medium") no-repeat center center;
+    background-size: 300px 180px;
+    background-position-y: -20px;
+    margin: 15px auto;
+    padding-top: 160px;
+}
+
+/*---------------------------------------------------------------------------------------------------------------deals.html Tailor-Made-Package Style------*/
+
+.tailor-made-package{
+    height: 800px;
+    width: 100%;
+    background-color: rgb(244, 255, 196);
+    text-align: center;
+}
+.tailor-made-package h3{
+    text-align: center;
+}
+.tailor-made-package li{
+    list-style: none;
 }
 
 /*---------------------------------------------------------------------------------------------------------Contact.html Section Style------------------*/
@@ -306,63 +360,11 @@ html{
     background-color: rgb(255, 231, 20);
 }
 
-/*------------------------------------------------------------------------------------------------------------------deals.html Section Style------*/
 
-#deals-section{
-    height: 4000px;
-    width: 100%;
-    background-color: aquamarine;
-}
-.preset-deals{
-    height: 2000px;
-    width: 100%;
-    background-color: bisque;
-}
-.deals-cards{
-    width: 300px;
-    height: 300px;
-    border-top-left-radius: 30%;
-    border-bottom-right-radius: 30%;
-    border: 2px solid #777777;
-    text-align: center;
-}
-
-/*---------------------------------------------------------------------------------------------------------------deals.html Preset Deals Style------*/
+/*---------------------------------------------------------------------------------------------------------------MEDIA SCREEN------*/
+@media and screen 
 
 
-#thailand{
-    height: 300px;
-    width: 300px;
-    border-top-left-radius: 30%;
-    border-bottom-right-radius: 30%;
-    background: url("https://www.flightspro.co.uk/wp-content/uploads/2021/02/dubai.jpeg") no-repeat center center;
-    background-size: 300px 180px;
-    background-position-y: -20px;
-    margin: 15px auto;
-    padding-top: 160px;
-}
-.price-box{
-    height: 30px;
-    width: 60px;
-    border: 1px solid #ffffff;
-    background-color: #ffffff;
-    float: right;
-    margin-top: -33px;
-}
-/*---------------------------------------------------------------------------------------------------------------deals.html Tailor-Made-Package Style------*/
-
-.tailor-made-package{
-    height: 2000px;
-    width: 100%;
-    background-color: rgb(244, 255, 196);
-    text-align: center;
-}
-.tailor-made-package h3{
-    text-align: center;
-}
-.tailor-made-package li{
-    list-style: none;
-}
 
 
 /************************************************************************************************************************************************/
