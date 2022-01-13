@@ -1,43 +1,25 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 html{
     scroll-behavior: smooth;
 }
 /*---------------------------------------------------------------------------------------------------------Header Style------------------*/
-#header-style{
-    height: 150px;
+header{
+    height: 120px;
     width: 100%;
-    background-color:  rgb(145, 212, 243);
+    background-color: cornflowerblue;
 }
-.logo h2{
-    font-size: 40px;
-    text-align: center;
-    margin: 20px;
-    color: #ffffff;
-}
-.logo a{
+header a{
     text-decoration: none;
-    color: #ffffff;
 }
-.menu{
-    text-align: center;
-    margin-top: -15px;
-}
-.menu li{
+nav li{
     list-style: none;
-    display: inline;
-    margin: 5px;
+    font-size: 20px;
 }
-.menu a{
-    text-decoration: none;
-    color: #ffffff;
-    text-transform: uppercase;
-}
-.menu a:hover{
-    border-bottom: 2px solid #777777;
-}
+
 
 /*---------------------------------------------------------------------------------------------------------Section Style index.html------------------*/
 #section-style{
