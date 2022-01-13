@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -28,7 +29,7 @@ nav li{
 
 /*---------------------------------------------------------------------------------------------------------Section Style index.html------------------*/
 .main-section{
-    height: 3200px;
+    min-height: 500px;
     width: 100%;
     background-color: rgb(60, 185, 243);
 }
@@ -52,7 +53,7 @@ nav li{
     padding: 10px;
 }
 .main-page-deals{
-    height: 1100px;
+    min-height: 400px;
     width: 100%;
     background-color: rgb(145, 212, 243);
     padding-top: 20px;
@@ -159,6 +160,10 @@ nav li{
 }
 /*--------------------------------------------------------------------Reasons To Book---------*/
 .reasons-to-book{
+    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
 }
@@ -167,9 +172,18 @@ nav li{
 }
 
 /*-------------------------------------------------------------------index.html Testimonial-------*/
-.testimonials-box{
-    margin: 10px 5px;
-    border: 2px solid #ffffff;
+.testimonials{
+    background-color: rgb(135, 166, 222);
+    min-height: 200px;
+}
+.testimonials-box{ 
+    height: 300px;
+    width: 300px;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    border: 3px solid white;
+    margin: 15px auto;
+    padding-top: 40px;
 }
 /*---------------------------------------------------------------------------------------------------------Footer Style------------------*/
 #footer-style{
