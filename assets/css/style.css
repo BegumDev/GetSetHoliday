@@ -26,14 +26,13 @@ nav li{
     border-bottom: 2px solid #777777;
 }
 
-
 /*---------------------------------------------------------------------------------------------------------Section Style index.html------------------*/
-#section-style{
-    height: 3300px;
+.main-section{
+    height: 3200px;
     width: 100%;
     background-color: rgb(60, 185, 243);
 }
-#who-are-we-img{
+.hero-img{
     height: 300px;
     width: 100%;
     background-image: url("https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
@@ -42,22 +41,15 @@ nav li{
     background-size: cover;
     color: #ffffff;
 }
-#who-are-we-img h3{
+.hero-img h3{
     padding-top: 20px;
     text-align: center;
 }
-.who-are-we-info p{
+.about-us p{
     text-align: center;
     color: #ffffff;
     font-size: 26px;
     padding: 10px;
-}
-.about-us{
-    text-align: center;
-    color: #ffffff;
-}
-.about-us h3{
-    padding-top: 20px;
 }
 .main-page-deals{
     height: 1100px;
@@ -109,9 +101,6 @@ nav li{
     padding-top: 22px;
     color: #ffffff;
 }
-#bali h5{
-    color: rgba(214, 160, 23, 0.993);
-}
 /*----------------------------------------------------------------Tenerife Main Deal------*/
 #tenerife{
     height: 300px;
@@ -139,9 +128,6 @@ nav li{
 .price-outer h6{
     padding-top: 22px;
     color: #ffffff;
-}
-#tenerife h5{
-    color: rgba(214, 160, 23, 0.993);
 }
 /*--------------------------------------------------------Dubai Main Deal----------------------*/
 #dubai{
@@ -171,45 +157,20 @@ nav li{
     padding-top: 22px;
     color: #ffffff;
 }
-#dubai h5{
-    color: rgba(214, 160, 23, 0.993);
+/*--------------------------------------------------------------------Reasons To Book---------*/
+.reasons-to-book{
+    text-align: center;
+    color: #ffffff;
+}
+.reasons-to-book h3{
+    padding-top: 20px;
 }
 
 /*-------------------------------------------------------------------index.html Testimonial-------*/
-.testimonial-section h4{
-    text-align: center;
-    color: rgb(255, 238, 0);
+.testimonials-box{
+    margin: 10px 5px;
+    border: 2px solid #ffffff;
 }
-.testimonial-section p{
-    font-size: 14px;
-}
-.testimonial{
-    height: 250px;
-    width: 100%;
-    border: 2px solid #777777;
-    box-shadow: 8px 8px white;
-    margin: 20px 10px;
-    padding: 10px;
-    text-align: center;
-}
-.go-to-top-btn{
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-    border: 2px solid white;
-    margin: 0 auto;
-    position: relative;
-    background-color: aquamarine;
-    opacity: 0.5;
-    position: sticky;
-}
-.go-to-top-btn a{
-    text-align: center;
-    font-size: 20px;
-    text-decoration: none;
-    padding: 9px;
-}
-
 /*---------------------------------------------------------------------------------------------------------Footer Style------------------*/
 #footer-style{
     height: 120px;
@@ -359,5 +320,10 @@ nav li{
         text-align: right;
         font-size: 30px;
         text-transform: uppercase;
+    }
+}
+@media screen and (min-width: 1441px){
+    #hero-img{
+        height: 500px;
     }
 }
