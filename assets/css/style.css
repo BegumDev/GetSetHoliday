@@ -213,7 +213,7 @@ footer{
 #deals-section{
     min-height: 500px;
     width: 100%;
-    background-color: aquamarine;
+    background-color: rgb(18, 168, 194);
 }
 
 /*---------------------------------------------------------------------------------------------------------------deals.html Preset Deals Style------*/
@@ -239,6 +239,33 @@ footer{
     margin: 15px auto;
     padding-top: 160px;
 }
+#majorca{
+    background: url("https://www.mallorca-beaches.com/wp-content/uploads/palma-nova-mallorca-780x470.jpg") no-repeat center center;
+    background-size: 300px 180px;
+    background-position-y: -20px;
+    margin: 15px auto;
+    padding-top: 160px;
+}
+#italy{
+    background: url("https://travelpassionate.com/wp-content/uploads/2019/04/Panoramic-view-in-Otranto-province-of-Lecce-in-the-Salento-peninsula-Puglia-Apulia-Italy.-Image-min.jpg") no-repeat center center;
+    background-size: 300px 180px;
+    background-position-y: -20px;
+    margin: 15px auto;
+    padding-top: 160px;
+}
+.gallery{
+    min-height: 300px;
+    width: 100%;
+}
+img{
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
+    margin: 10px auto;
+}
+
 
 /*---------------------------------------------------------------------------------------------------------Contact.html Section Style------------------*/
 
@@ -312,6 +339,10 @@ footer{
     background-color: rgb(255, 231, 20);
 }
 /*---------------------------------------------------------------------------------------------------------Media Queries------------------*/
+
+/*-------------------------------------------------------------------------*/
+
+
 @media screen and (min-width: 600px){
     .logo, .menu{
         margin-top: 30px;
@@ -324,7 +355,18 @@ footer{
         font-size: 30px;
         text-transform: uppercase;
     }
-    .contact li{
+    .gallery{
+        width: 90%;
+    }
+    .portrait img{
+        width: 300px;
+        height: 400px;
+    }
+    .landscape img{
+        width: 300px;
+        height: 400px;
+     }
+     .contact li{
         text-align: right;
     }
     .address li{
@@ -332,6 +374,23 @@ footer{
         text-align: left;
     }
 }
+/*-------------------------------------------------------------------------*/
+
+@media screen and (min-width: 1025px){
+    .gallery{
+        width: 78%;
+    }
+    .portrait img{
+        width: 300px;
+        height: 500px;
+    }
+    .landscape img{
+        width: 700px;
+        height: 500px;
+     }
+}
+/*-------------------------------------------------------------------------*/
+
 @media screen and (min-width: 1441px){
     #hero-img{
         height: 500px;
