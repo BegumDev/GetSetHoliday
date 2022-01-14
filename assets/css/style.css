@@ -211,18 +211,12 @@ footer{
 /*------------------------------------------------------------------------------------------------------------------deals.html Section Style------*/
 
 #deals-section{
-    height: 3500px;
+    min-height: 500px;
     width: 100%;
     background-color: aquamarine;
 }
 
 /*---------------------------------------------------------------------------------------------------------------deals.html Preset Deals Style------*/
-.preset-deals{
-    height: 2500px;
-    width: 100%;
-    background-color: rgb(165, 165, 231);
-    margin: 0 auto;
-}
 #thailand{
     background: url("https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg") no-repeat center center;
     background-size: 300px 180px;
@@ -244,21 +238,6 @@ footer{
     background-position-y: -20px;
     margin: 15px auto;
     padding-top: 160px;
-}
-
-/*---------------------------------------------------------------------------------------------------------------deals.html Tailor-Made-Package Style------*/
-
-.tailor-made-package{
-    height: 800px;
-    width: 100%;
-    background-color: rgb(244, 255, 196);
-    text-align: center;
-}
-.tailor-made-package h3{
-    text-align: center;
-}
-.tailor-made-package li{
-    list-style: none;
 }
 
 /*---------------------------------------------------------------------------------------------------------Contact.html Section Style------------------*/
