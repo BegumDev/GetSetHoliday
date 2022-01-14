@@ -1,8 +1,8 @@
 <h1 align="center">Get Set Holiday</h1>
 
-[View the live project here](https://github.com/BegumDev/Project-Milestone-1)
+[View the live project here](https://begumdev.github.io/GetSetHoliday/index.html)
 
-Targeted to UK holiday makers, this website is designed to advertise package holiday deals to consumers looking to book a holiday worldwide.
+Targeted to UK holiday makers, this website is designed to advertise package holiday deals to people looking to book holidays worldwide.
 
 ![Initial photo](assets/images/photo.jpg)
 
