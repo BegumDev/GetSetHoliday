@@ -317,9 +317,20 @@ textarea{
 #submit-button:hover{
     background-color: rgb(236, 227, 142);
 }
-/*---------------------------------------------------------------------------------------------------------Media Queries------------------*/
 
-/*-------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------Thank You Page------------------*/
+.thanks-message{
+    height: 500px;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1513689125086-6c432170e843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: #ffffff;
+}
+
+
+/*---------------------------------------------------------------------------------------------------------Media Queries------------------*/
 
 
 @media screen and (min-width: 600px){
