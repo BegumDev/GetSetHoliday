@@ -11,7 +11,7 @@ html{
 header{
     height: 120px;
     width: 100%;
-    background-color: cornflowerblue;
+    background-color: #d2dbde;
 }
 li{
     list-style: none;
@@ -22,6 +22,12 @@ nav li{
 .logo, .menu{
     margin-top: 10px;
 }
+.logo a{
+    color: #ffffff;
+}
+.menu a{
+    color: #ffffff
+}
 .menu a:hover{
     border-bottom: 2px solid #777777;
 }
@@ -30,7 +36,7 @@ nav li{
 .main-section{
     min-height: 500px;
     width: 100%;
-    background-color: rgb(60, 185, 243);
+    background-color: #84b7ff;
 }
 .hero-img{
     height: 300px;
@@ -39,11 +45,11 @@ nav li{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    color: #ffffff;
 }
 .hero-img h3{
     padding-top: 20px;
     text-align: center;
+    color: #ffffff;
 }
 .about-us p{
     text-align: center;
@@ -54,16 +60,17 @@ nav li{
 .main-page-deals{
     min-height: 400px;
     width: 100%;
-    background-color: rgb(12, 226, 226);
+    background-color: #d2dbde;
     padding-top: 20px;
     margin: 0 auto;
+    color: #000000;
 }
 .deals-box{
     height: 300px;
     width: 300px;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    border: 3px solid white;
+    border: 5px solid #ffffff;
     text-align: center;
 }
 /*--------------------------------------------------------------Bali Main Deal----------*/
@@ -178,7 +185,7 @@ nav li{
     width: 300px;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    background-color: rgb(12, 226, 226);
+    background-color: 	#8debff;
     border: 3px solid white;
     margin: 15px auto;
     padding-top: 40px;
@@ -187,7 +194,7 @@ nav li{
 footer{
     min-height: 100px;
     width: 100%;
-    background-color: rgb(135, 212, 222);
+    background-color: #d2dbde;
     font-size: 14px;
 }
 .footer p{
@@ -204,7 +211,7 @@ a{
 .deals-section{
     min-height: 500px;
     width: 100%;
-    background-color: rgb(18, 168, 194);
+    background-color: #8debff;
     padding-top: 30px;
 }
 .enquire{
@@ -314,13 +321,16 @@ textarea{
 
 /*---------------------------------------------------------------------------------------------------------Thank You Page------------------*/
 .thanks-message{
-    height: 500px;
+    height: 800px;
     width: 100%;
     background-image: url("https://images.unsplash.com/photo-1513689125086-6c432170e843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     color: #ffffff;
+}
+.thanks-message h2{
+    margin-top: 80px;
 }
 
 /*---------------------------------------------------------------------------------------------------------Media Queries------------------*/
