@@ -646,13 +646,13 @@ textarea{
         background-position-y: -20px;
         margin: 15px auto;
     }
-    .bali, .tenerife, .dubai h3{
+    .bali, .tenerife, .dubai, h3{
         margin-top: 90px;
     }
-    .bali, .tenerife, .dubai hr{
+    .bali, .tenerife, .dubai, hr{
         margin-top: 10px;
     }
-    .bali, .tenerife, .dubai h4{
+    .bali, .tenerife, .dubai, h4{
         margin-top: 5px;
         text-transform: uppercase;
     }
