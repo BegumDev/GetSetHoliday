@@ -13,8 +13,10 @@ header{
     width: 100%;
     background-color: cornflowerblue;
 }
-nav li{
+li{
     list-style: none;
+}
+nav li{
     font-size: 22px;
 }
 .logo, .menu{
@@ -52,7 +54,7 @@ nav li{
 .main-page-deals{
     min-height: 400px;
     width: 100%;
-    background-color: rgb(145, 212, 243);
+    background-color: rgb(12, 226, 226);
     padding-top: 20px;
     margin: 0 auto;
 }
@@ -157,16 +159,11 @@ nav li{
 }
 /*--------------------------------------------------------------------Reasons To Book---------*/
 .reasons-to-book{
-    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    color: black;
     font-weight: 700;
 }
 .reasons-to-book h3{
-    padding-top: 20px;
+    padding-top: 10px;
+    text-transform: uppercase;
 }
 .reasons-to-book a{
     color: #ffffff;
@@ -174,7 +171,6 @@ nav li{
 
 /*-------------------------------------------------------------------index.html Testimonial-------*/
 .testimonials{
-    background-color: rgb(135, 166, 222);
     min-height: 200px;
 }
 .testimonials-box{ 
@@ -182,33 +178,23 @@ nav li{
     width: 300px;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
+    background-color: rgb(12, 226, 226);
     border: 3px solid white;
     margin: 15px auto;
     padding-top: 40px;
 }
 /*---------------------------------------------------------------------------------------------------------Footer Style------------------*/
 footer{
-    min-height: 120px;
+    min-height: 100px;
     width: 100%;
     background-color: rgb(135, 212, 222);
-    font-size: 18px;
+    font-size: 14px;
 }
-.contact li{
-    list-style: none;
+.footer p{
+    font-size: 10px;
 }
-.address li{
-    list-style: none;
-}
-.contact li{
-    text-align: right;
-}
-.address li{
-    list-style: none;
-    text-align: left;
-}
-.social-media-links{
-    margin: 0 60px;
-    font-size: 30px;
+.social-media-links a{
+    font-size: 20px;
 }
 
 /*------------------------------------------------------------------------------------------------------------------deals.html Section Style------*/
@@ -289,9 +275,6 @@ img{
     background-size: cover;
     padding: 20px;
     color: #ffffff;
-}
-.contact-section li{
-    list-style: none;
 }
 .contact-info{
     font-size: 20px;
@@ -422,6 +405,20 @@ textarea{
     .bali, .tenerife, .dubai, h4{
         margin-top: 5px;
     }
+    .reasons-to-book{
+        width: 85%;
+        font-size: 30px;
+    }
+    .reasons-to-book h2{
+        margin-top: 10px;
+    }
+    .reasons-to-book h3{
+        margin-top: 10px;
+    }
+    .reasons-to-book p{
+        font-size: 24px;
+    }
+
 /*--------------------deals page adjustments-----*/
     .thailand{
         background: url("https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg") no-repeat center center;
@@ -527,6 +524,13 @@ textarea{
         padding-top: 35px;
         color: #ffffff;
     }
+    .reasons-to-book{
+        width: 70%;
+        font-size: 30px;
+    }
+    .reasons-to-book p{
+        font-size: 24px;
+    }
 /*--------------------deals page adjustments-----*/
     .thailand{
         background: url("https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg") no-repeat center center;
@@ -580,6 +584,17 @@ textarea{
     }
 }
 @media screen and (min-width: 1441px) and (max-width: 2560px){
+/*--------------------main page adjustments-----*/  
+    .hero-img{
+        height: 500px;
+    }
+    .hero-img h3{
+        margin-top: 20px;
+        font-size: 40px;
+    }
+    .about-us{
+        width: 50%;
+    }
     .deals-box{
         height: 350px;
         width: 350px;
@@ -625,6 +640,13 @@ textarea{
     .price-outer h6{
         padding-top: 35px;
         color: #ffffff;
+    }
+    .reasons-to-book{
+        width: 70%;
+        font-size: 30px;
+    }
+    .reasons-to-book p{
+        font-size: 24px;
     }
 /*--------------------deals page adjustments-----*/
     .thailand{
