@@ -368,7 +368,10 @@ textarea{
         margin: 0 auto;
     }
     .about-us{
-        width: 70%;
+        width: 60%;
+    }
+    .about-us p{
+        font-size: 36px;
     }
    .deals-box{
         height: 350px;
@@ -486,7 +489,10 @@ textarea{
         margin: 0 auto;
     }
     .about-us{
-        width: 50%;
+        width: 60%;
+    }
+    .about-us p{
+        font-size: 40px;
     }
     .deals-box{
         height: 350px;
@@ -596,14 +602,17 @@ textarea{
 @media screen and (min-width: 1441px) and (max-width: 2560px){
 /*--------------------main page adjustments-----*/  
     .hero-img{
-        height: 500px;
+        height: 700px;
     }
     .hero-img h3{
         margin-top: 20px;
         font-size: 40px;
     }
     .about-us{
-        width: 50%;
+        width: 60%;
+    }
+    .about-us p{
+        font-size: 40px;
     }
     .deals-box{
         height: 350px;
