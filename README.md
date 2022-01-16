@@ -34,4 +34,14 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
     * ### Imagery
         - The hero image upon landing on the main page is intended to associate with holidays purposely to captivate the users attention. Sunglasses on a beach with the sea in the back can be universally understood to associate with holidays.
 - ### Wireframes
-    - 
+        * Main page wireframe:
+    
+    ![Image of laptop, tablet and phone wireframes of the main page](documents/wireframes/main-page-wireframe.JPG)
+
+        * Deals page wireframe:
+
+    ![Image of laptop, tablet and phone wireframes of the main page](documents/wireframes/deals-page-wireframe.JPG)
+
+        * Contact page wireframe:
+
+    ![Image of laptop, tablet and phone wireframes of the main page](documents/wireframes/contact-page.JPG)
