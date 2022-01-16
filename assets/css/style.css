@@ -26,12 +26,6 @@ nav li{
 .logo, .menu{
     margin-top: 10px;
 }
-.logo a{
-    color: #ffffff;
-}
-.menu a{
-    color: #ffffff
-}
 .menu a:hover{
     border-bottom: 2px solid #777777;
 }
@@ -53,11 +47,9 @@ nav li{
 .hero-img h3{
     padding-top: 20px;
     text-align: center;
-    color: #ffffff;
 }
 .about-us p{
     text-align: center;
-    color: #ffffff;
     font-size: 26px;
     padding: 10px;
 }
@@ -67,7 +59,6 @@ nav li{
     background-color: #d2dbde;
     padding-top: 20px;
     margin: 0 auto;
-    color: #000000;
 }
 .deals-box{
     height: 300px;
@@ -179,9 +170,6 @@ nav li{
     padding-top: 10px;
     text-transform: uppercase;
 }
-.reasons-to-book a{
-    color: #ffffff;
-}
 
 /*-------------------------------------------------------------------index.html Testimonial-------*/
 .testimonials{
@@ -225,7 +213,6 @@ a{
     padding: 3px 6px;
     border: 2px solid white;
     border-radius: 10px;
-    color: black;
     text-transform: uppercase;
 }
 .thailand{
@@ -288,7 +275,6 @@ img{
     background-position: center;
     background-size: cover;
     padding: 20px;
-    color: #ffffff;
 }
 .contact-info{
     font-size: 20px;
@@ -335,7 +321,6 @@ textarea{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    color: #ffffff;
 }
 .thanks-message h2{
     margin-top: 80px;
