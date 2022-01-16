@@ -4,7 +4,7 @@
 
 Targeted to UK holiday makers, this website is designed to advertise package holiday deals to people looking to book holidays worldwide.
 
-![Initial photo](assets/images/photo.jpg)
+![Image of the website on desktop, laptop, tablet and mobile](../images/AmIResponsiveImg.JPG)
 
 ***
 # User Exeprience (UX)
