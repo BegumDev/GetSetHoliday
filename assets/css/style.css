@@ -10,7 +10,9 @@ html{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    color: #000000;
 }
+
 /*---------------------------------------------------------------------------------------------------------Header Style------------------*/
 header{
     height: 120px;
@@ -28,6 +30,10 @@ nav li{
 }
 .menu a:hover{
     border-bottom: 2px solid #777777;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 
 /*---------------------------------------------------------------------------------------------------------Section Style index.html------------------*/
@@ -170,6 +176,9 @@ nav li{
     padding-top: 10px;
     text-transform: uppercase;
 }
+.reasons-to-book a{
+    color: #dc143c;
+}
 
 /*-------------------------------------------------------------------index.html Testimonial-------*/
 .testimonials{
@@ -200,9 +209,6 @@ footer{
 }
 
 /*------------------------------------------------------------------------------------------------------------------deals.html Section Style------*/
-a{
-    text-decoration: none;
-}
 .deals-section{
     min-height: 500px;
     width: 100%;
