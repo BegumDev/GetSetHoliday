@@ -45,6 +45,7 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
     - #### Contact page wireframe:
 
     ![Image of laptop, tablet and phone wireframes of the main page](documents/wireframes/contact-page.JPG)
+***
 ## Features
 ***
 * ### Main Page
@@ -78,7 +79,7 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
         * Displayed on mobiles screens, the various means of contact are listed in sections one below the other to avoid information condensed into a small screen. Whilst on larger screens the means of contact are displayed next to each other to give the user a sense of options.
     3. Contact form.
         * This page features a contact form to allow the user to send in a message by inputting their personal details. Each input box contains helpful text to guide as what information is needed. In the event the user ommits a field the form will prevent submission and direct to the field needing attention. The email input box also directs the user to insert the correct '@' sign in the event it is ommitted or forgotten. The 'submit' button also changes colour to advise the user it is being hovered over.
-
+***
 ## Technologies Used
 ***
 ### Languages Used
@@ -97,33 +98,43 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
     * GitHub is used to store the projects code after being pushed from Git.
 6. Balsamiq:
     * This was used to create wireframes for laptop, tablet and mobile screens.
-7. JS?:
+***
 ## Testing
 ***
-### Testing User Stories from User Experience (UX) Section
-- #### Site owner goals:
-        1. To be able to project an information-centric website detailing holiday deals and packages in an engaging and asthetically pleasing way so that it invites the customer to explore packages.
-        2. To be able to display the information in a chronological order in accordance to its priority so it helps the customer subconsciously consider a booking.
-        3. To make the customer intuitively find information that leads them to complete a booking.
-
-- #### First time visitor goals:
-        1. On initial entry to the website, I want to immediately understand what this website is about and some initial obvious information reflecting this.
-        2. I want to be able to find information in a fluid manner and centralised in one area. If I want to know more, I should be able to navigate there easily.
-        3. I want to be able to make contact and find this information without effort.
-        4. I want to see what other experiences have been and any reviews surrounding this.
-
-- #### Frequent user goals
-        1. I want to see if any new deals are featured on the main page.
-        2. I want to be able to contact the office for any updates to travel information.
-        3. I want to be able to make further bookings.
-
 ### Further Testing
 ### Known Bugs
+***
 ## Deployment
 ***
 ### GitHub Pages
-### Forking the Github Repository
-### Making a local clone
+
+The project was deployed to GitHub Pages using the following steps;
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
+2. At the top of the Repository, click on the 'settings' button.
+3. Scroll down the Settings page until you find the "GitHub Pages" Section.
+4. Under 'Source', click the dropdown called 'None' and select the branch as 'main.'
+5. The page will automatically refresh.
+6. Scroll back through the page to locate the now published site [link](https://begumdev.github.io/GetSetHoliday/) in the 'GitHub Pages' section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click 'code' located left of the green 'Gitpod' button.
+3. To clone the repository using HTTPS, under "Clone with HTTPS", click on the copy icon right of the link.
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+7. Press Enter. Your local clone will be created.
+***
 ## Credits
 ***
 ### Code
