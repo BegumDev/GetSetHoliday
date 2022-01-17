@@ -144,13 +144,13 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 ### Media
 1. Deals Page Collage Images (in order of left to right if viewed on laptop);
     * Family in the water - Natalya Zaritskaya [www.unsplash.com](https://unsplash.com/)
-    * Mountains - Rohit Tandon
-    * Sandy Walkway - Chris Galbraith
-    * Sunset over water - Nathan Dumlao
-    * Mother and baby near a mountain - Rachel Cook
-    * Holiday resort - Kelsey Curtis
-    * Friends under an umbrella - Rayyu Maldives
-    * Surfers on a beach - Sebastian Staines
+    * Mountains - Rohit Tandon [www.unsplash.com](https://unsplash.com/)
+    * Sandy Walkway - Chris Galbraith [www.unsplash.com](https://unsplash.com/)
+    * Sunset over water - Nathan Dumlao [www.unsplash.com](https://unsplash.com/)
+    * Mother and baby near a mountain - Rachel Cook [www.unsplash.com](https://unsplash.com/)
+    * Holiday resort - Kelsey Curtis [www.unsplash.com](https://unsplash.com/)
+    * Friends under an umbrella - Rayyu Maldives [www.unsplash.com](https://unsplash.com/)
+    * Surfers on a beach - Sebastian Staines [www.unsplash.com](https://unsplash.com/)
 ### Acknowledgements
 * My peers in the Slack community have been great help in asnwering anything needed.
 * My mentor Rohit Sharma has been very supportive with great tips.
