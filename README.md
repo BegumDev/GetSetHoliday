@@ -47,6 +47,33 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
     ![Image of laptop, tablet and phone wireframes of the main page](documents/wireframes/contact-page.JPG)
 ## Features
 ***
+* ### Main Page
+    1. #### Navbar - this consists of 2 elements.
+        * A clickable logo - Once clicked, it will direct you to back to the home page. On larger screens purposely set in the top left corner of the webpage as universally expected to be placed. On mobile screens the logo will take up the full width of a column at the head of the page, again to be easily accessible should a user want to return to a home page. The navbar is fixed to the top of the screen on all screen sizes again for ease of access.
+        * An interactive menu - a border will appear when hovering over each section of the menu and will disappear when moved off it. This is designed to help guide the user to their intended page. On larger screens the menu will set in the top right hand of the page and on mobile devices will again take up a full width of a row to mimic a desktop menu experience.
+    2. #### About us section.
+        * Hero image with a slogan - purposely placed is a simplified image of sunglasses on a beach to denote holidays. The ommitance of any other images is to captivate the users attention inviting them to read the slogan.The slogan itself explains that this is a holiday booking website.
+        * Explanatory text - text to supplement the hero image to outline the nature of the website.
+    3. #### Insight into deals using deal cards.
+        * A placement of 3 deals is there to help users get a taste of what  deals are on offer. It is intended to draw the users attention and to incite further queries. The price tags are purposely bright again for attention to be drawn.
+    4. #### Why book with us.
+        * This section outlines reasons to book with us headed by 3 one word titles. These titles are to summarise the main merits of this website. They then go on to elaborate why a customer should feel assured. It also contains a link to the contact page as an initial invite to make contact.
+    5. #### Testimonials.
+        * Fictational past experiences have been included to give the user a sense of assurance that we are a reputable service.
+    6. #### Footer.
+        * Information including an address, email, phone and social media links have been placed to allow the user easy access in order to make contact. The social media links direct users to an external social media platform.
+* ### Deals Page
+        1. 
+        2. 
+        3. 
+        4. 
+        5. 
+* ### Contact Page
+        1. 
+        2. 
+        3. 
+        4. 
+        5. 
 ## Technologies Used
 ***
 ### Languages Used
