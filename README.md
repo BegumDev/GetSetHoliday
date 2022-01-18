@@ -119,8 +119,13 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
 ***
 ## Testing
 ***
-### Further Testing
-### Known Bugs
+### Manual Testing.
+    1. Devices Tested;
+    2. W3 HTML Validator;
+    3. Jigsaw CSS Validator;
+    4. Lighthouse Report;
+### Further Testing.
+### Known Bugs.
 ***
 ## Deployment
 ***
