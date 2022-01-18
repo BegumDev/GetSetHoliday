@@ -50,9 +50,10 @@ a{
     background-position: center center;
     background-size: cover;
 }
-.hero-img h3{
+.hero-img h2{
     padding-top: 20px;
     text-align: center;
+    font-size: 26px;
 }
 .about-us p{
     text-align: center;
@@ -105,7 +106,7 @@ a{
     margin-top: -20px;
     margin-left: -20px;
 }
-.price-outer h6{
+.price-outer p{
     padding-top: 22px;
     color: #ffffff;
 }
@@ -133,7 +134,7 @@ a{
     margin-top: -20px;
     margin-left: -20px;
 }
-.price-outer h6{
+.price-outer p{
     padding-top: 22px;
     color: #ffffff;
 }
@@ -161,7 +162,7 @@ a{
     margin-top: -20px;
     margin-left: -20px;
 }
-.price-outer h6{
+.price-outer p{
     padding-top: 22px;
     color: #ffffff;
 }
@@ -176,8 +177,9 @@ a{
     padding-top: 10px;
     text-transform: uppercase;
 }
-.reasons-to-book a{
-    color: #dc143c;
+.reasons-to-book a:hover{
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
 }
 
 /*-------------------------------------------------------------------index.html Testimonial-------*/
@@ -366,7 +368,7 @@ textarea{
 }
 @media screen and (min-width: 769px) and (max-width: 1024px){
 /*--------------------main page adjustments-----*/
-    .hero-img h3{
+    .hero-img h2{
         margin-top: 30px;
         font-size: 30px;
         width: 70%;
@@ -481,7 +483,7 @@ textarea{
     .hero-img{
         height: 600px;
     }
-    .hero-img h3{
+    .hero-img h2{
         margin-top: 40px;
         font-size: 50px;
         width: 80%;
@@ -521,13 +523,13 @@ textarea{
         background-position-y: -20px;
         margin: 15px auto;
     }
-    .bali, .tenerife, .dubai h3{
+    .bali, .tenerife, .dubai, h3{
         margin-top: 90px;
     }
-    .bali, .tenerife, .dubai hr{
+    .bali, .tenerife, .dubai, hr{
         margin-top: 10px;
     }
-    .bali, .tenerife, .dubai h4{
+    .bali, .tenerife, .dubai, h4{
         margin-top: 5px;
         text-transform: uppercase;
     }
@@ -535,7 +537,7 @@ textarea{
         height: 100px;
         width: 100px;
     }
-    .price-outer h6{
+    .price-outer p{
         padding-top: 35px;
         color: #ffffff;
     }
@@ -603,7 +605,7 @@ textarea{
     .hero-img{
         height: 700px;
     }
-    .hero-img h3{
+    .hero-img h2{
         margin-top: 20px;
         font-size: 40px;
     }
@@ -655,7 +657,7 @@ textarea{
         height: 100px;
         width: 100px;
     }
-    .price-outer h6{
+    .price-outer p{
         padding-top: 35px;
         color: #ffffff;
     }
