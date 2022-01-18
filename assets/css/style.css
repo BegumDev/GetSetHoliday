@@ -283,6 +283,7 @@ img{
     background-position: center;
     background-size: cover;
     padding: 20px;
+    color: #8debff;
 }
 .contact-info{
     font-size: 20px;
@@ -295,6 +296,7 @@ img{
     background: rgb(114, 216, 247, 0.6);
     margin: 0 auto;
     padding: 30px;
+    color: #000000;
 }
 .labels{
     margin: 10px 0 0 10px;
