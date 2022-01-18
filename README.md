@@ -94,7 +94,9 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
         * In keeping with consistency, once a user submits the contact form, they will be met with an acknowledgement page thanking them for their submission.This page includes the main websites navbar and footer to encourage familiarity. It also includes a direct instruction link to head back to the site.
         ![Image of the thank you page](assets/images/thank-you-page.JPG)
 * ### 404 Page.
-    1. 
+    1. Error Page.
+        * If a user tpyes a broken link, they will receive a 404 error page which is designed to be the same theme as all pages in the website but it will also contain a link back to the website to avoid disorientating a user.
+        ![Image of the 404 error page](assets/images/404-page.JPG)
 ***
 ## Technologies Used
 ***
