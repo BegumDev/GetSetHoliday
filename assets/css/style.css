@@ -227,6 +227,9 @@ footer{
     background-color: #8debff;
     padding-top: 30px;
 }
+.deals-section h2{
+    text-transform: uppercase;
+}
 .enquire{
     padding: 3px 6px;
     border: 2px solid white;
