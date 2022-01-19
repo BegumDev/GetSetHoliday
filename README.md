@@ -120,10 +120,15 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
 ## Testing
 ***
 ### Manual Testing.
-    1. Devices Tested;
-    2. W3 HTML Validator;
-    3. Jigsaw CSS Validator;
-    4. Lighthouse Report;
+* #### Manual Device Testing.
+    *
+* #### W3 HTML Validator.
+    * All HTML code was put through the validator and did initially bring up sytanx error. Those have since been corrected and now pass the validator with no errors.
+* #### Jigsaw CSS Validator.
+    * All CSS code have been put through the validator - it did highlight a parse code whereby an open curly brace was evident in the media queries. This has since peen corrected and passed validation.
+* #### Lighthouse Testing.
+    * Desktop Report
+    * Mobile Report
 ### Further Testing.
 ### Known Bugs.
 ***
