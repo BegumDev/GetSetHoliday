@@ -6,25 +6,14 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 
 ![Image of the website on desktop, laptop, tablet and mobile](assets/images/AmIResponsiveImg.JPG)
 
-***
+
 ## User Experience (UX)
 ***
 - ### User stories
-    - #### Site owner goals:
-        1. To be able to project an information-centric website detailing holiday deals and packages in an engaging and asthetically pleasing way so that it invites the customer to explore packages.
-        2. To be able to display the information in a chronological order in accordance to its priority so it helps the customer subconsciously consider a booking.
-        3. To make the customer intuitively find information that leads them to complete a booking.
-
-    - #### First time visitor goals:
-        1. On initial entry to the website, I want to immediately understand what this website is about and some initial obvious information reflecting this.
-        2. I want to be able to find information in a fluid manner and centralised in one area. If I want to know more, I should be able to navigate there easily.
-        3. I want to be able to make contact and find this information without effort.
-        4. I want to see what other experiences have been and any reviews surrounding this.
-
-    - #### Frequent user goals
-        1. I want to see if any new deals are featured on the main page.
-        2. I want to be able to contact the office for any updates to travel information.
-        3. I want to be able to make further bookings.
+    - #### Visitor goals:
+        1. On initial entry to the website, I want to understand what this website is about and would like obvious information displaying it.
+        2. I want to be able to contact the organisation for booking enquiries.
+        3. I want to know that I am dealing with a reputable service and see previous customer reviews.
 
 - ### Design
     * #### Color Scheme
@@ -33,6 +22,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
         - The fonts used are taken from google fonts named 'Poppins' with a fall-back of sans-serif.
     * #### Imagery
         - The hero image upon landing on the main page is intended to associate with holidays purposely to captivate the users attention. Sunglasses on a beach with the sea in the back can be universally understood to associate with holidays.
+
 - ### Wireframes
     - #### Main page wireframe:
     
@@ -45,7 +35,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
     - #### Contact page wireframe:
 
     ![Image of laptop, tablet and phone wireframes of the main page](documents/wireframes/contact-page.JPG)
-***
+
 ## Features
 ***
 * ### Main Page
@@ -54,11 +44,11 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
         * An interactive menu - a border will appear when hovering over each section of the menu and will disappear when moved off it. This is designed to help guide the user to their intended page. On larger screens the menu will set in the top right hand of the page and on mobile devices will again take up a full width of a row to mimic a desktop menu experience.
         ![Image of Navbar](assets/images/navbar.JPG)
     2. About us section. 
-        * Hero image with a slogan - purposely placed is a simplified image of sunglasses on a beach to denote holidays. The ommitance of any other images is to captivate the users attention inviting them to read the slogan.The slogan itself explains that this is a holiday booking website.
+        * Hero image with a slogan - purposely placed is a simplified image of sunglasses on a beach to denote holidays. The ommitance of any other images is deliberate to captivate the users attention inviting them to read the slogan.The slogan itself explains that this is a holiday booking website.
         * Explanatory text - text to supplement the hero image to outline the nature of the website.
         ![Image of the about-us section](assets/images/about-us.JPG)
     3. Insight into deals using deal cards. 
-        * A placement of 3 deals is there to help users get a taste of what  deals are on offer. It is intended to draw the users attention and to incite further queries. The price tags are purposely bright again for attention to be drawn.
+        * A placement of 3 deals is there to help users get a taste of what deals are on offer. It is intended to draw the users attention and to incite further queries. The price tags are purposely bright again for attention to be drawn.
         ![Image of deals cards from the main-page](assets/images/deals-insight.JPG)
     4. Why book with us.
         * This section outlines reasons to book with us headed by 3 one word titles. These titles are to summarise the main merits of this website. They then go on to elaborate why a customer should feel assured. It also contains a link to the contact page as an initial invite to make contact.
@@ -93,16 +83,13 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
     1. Thank you message.
         * In keeping with consistency, once a user submits the contact form, they will be met with an acknowledgement page thanking them for their submission.This page includes the main websites navbar and footer to encourage familiarity. It also includes a direct instruction link to head back to the site.
         ![Image of the thank you page](assets/images/thank-you-page.JPG)
-* ### 404 Page.
-    1. Error Page.
-        * If a user tpyes a broken link, they will receive a 404 error page which is designed to be the same theme as all pages in the website but it will also contain a link back to the website to avoid disorientating a user.
-        ![Image of the 404 error page](assets/images/404-page.JPG)
-***
+
 ## Technologies Used
 ***
 ### Languages Used
 * HTML5
 * CSS3
+
 ### Frameworks, Libraries & Programs Used
 1. Bootstrap v5.1.3:
     * Bootstrap was used to assist with responsiveness on different media screens and centering of content.
@@ -116,16 +103,11 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
     * GitHub is used to store the projects code after being pushed from Git.
 6. Balsamiq:
     * This was used to create wireframes for laptop, tablet and mobile screens.
-***
+
 ## Testing
 ***
-### Manual Testing.
-* #### Manual Device Testing.
-    * Phones.
-        - All buttons, functionality, display and responsiveness are tested and are fineon the following tested mobiles; iPhone SE, iPhone XR, iPhone 12 Pro and Samsung Galaxy S20 Ultra.
-    * Tablets.
-        - 
-    * Laptops.
+### Testing user stories from user experience (UX).
+
 * #### W3 HTML Validator.
     * All HTML code was put through the validator and did initially bring up sytanx error. Those have since been corrected and now pass the validator with no errors.
 * #### Jigsaw CSS Validator.
