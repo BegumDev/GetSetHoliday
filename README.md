@@ -2,7 +2,7 @@
 
 [View the live project here](https://begumdev.github.io/GetSetHoliday/index.html)
 
-Targeted to UK holiday makers, this website is designed to advertise package holiday deals to people looking to book holidays worldwide.
+Targeted to UK holiday makers, this fictational website is designed to advertise package holiday deals to people looking to book holidays worldwide.
 
 ![Image of the website on desktop, laptop, tablet and mobile](assets/images/AmIResponsiveImg.JPG)
 
@@ -121,16 +121,25 @@ Targeted to UK holiday makers, this website is designed to advertise package hol
 ***
 ### Manual Testing.
 * #### Manual Device Testing.
-    *
+    * Phones.
+        - All buttons, functionality, display and responsiveness are tested and are fineon the following tested mobiles; iPhone SE, iPhone XR, iPhone 12 Pro and Samsung Galaxy S20 Ultra.
+    * Tablets.
+        - 
+    * Laptops.
 * #### W3 HTML Validator.
     * All HTML code was put through the validator and did initially bring up sytanx error. Those have since been corrected and now pass the validator with no errors.
 * #### Jigsaw CSS Validator.
     * All CSS code have been put through the validator - it did highlight a parse code whereby an open curly brace was evident in the media queries. This has since peen corrected and passed validation.
 * #### Lighthouse Testing.
-    * Desktop Report
-    * Mobile Report
+    * Results.
+        1. Main page results ![Lighthouse results of the main page](assets/images/lighthouse-main.JPG)
+        2. Deals page results ![Lighthouse results of the deals page](assets/images/lighthouse-deals.JPG)
+        3. Contact page results ![Lighthouse results of the contact page](assets/images/lighthouse-contact.JPG)
+        4. Thank you message page ![Lighthouse results of the thank you page](assets/images/lighthouse-thanks.JPG)
+        5. 404 page results ![Lighthouse results of the 404 error page](assets/images/lighthouse-404.JPG)
 ### Further Testing.
 ### Known Bugs.
+    * Not responsive on iPad Air
 ***
 ## Deployment
 ***
