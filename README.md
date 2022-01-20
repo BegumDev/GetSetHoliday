@@ -106,20 +106,35 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 
 ## Testing
 ***
-### Testing user stories from user experience (UX).
+* ### Testing user stories from user experience (UX).
+    * #### Aim 1;
 
-* #### W3 HTML Validator.
-    * All HTML code was put through the validator and did initially bring up sytanx error. Those have since been corrected and now pass the validator with no errors.
-* #### Jigsaw CSS Validator.
-    * All CSS code have been put through the validator - it did highlight a parse code whereby an open curly brace was evident in the media queries. This has since peen corrected and passed validation.
-* #### Lighthouse Testing.
-    * Results.
-        1. Main page results ![Lighthouse results of the main page](assets/images/lighthouse-main.JPG)
-        2. Deals page results ![Lighthouse results of the deals page](assets/images/lighthouse-deals.JPG)
-        3. Contact page results ![Lighthouse results of the contact page](assets/images/lighthouse-contact.JPG)
-        4. Thank you message page ![Lighthouse results of the thank you page](assets/images/lighthouse-thanks.JPG)
-        5. 404 page results ![Lighthouse results of the 404 error page](assets/images/lighthouse-404.JPG)
+    * #### Aim 2; "I want to be able to contact the organisation for booking enquiries."
+    - Passed - A user can click on the contact page in the header and will see a contact form. Placeholder text guides a user as to what information is needed in each field. Once a user inputs all information they can click submit. The form will only work if all fields have data and in the event it doesn't, it will flag a 'required' message in the field data is ommitted. Once all fields have data, the user will recieve a 'thank you' message to confirm the form has been submitted and will guide back to the homepage. This test result is consistent across various media devices also.
+    ![Image of contact form missing a field](assets/images/user-stories-2.JPG)
+    ![Image of the thank you page](assets/images/thank-you-page.JPG)
+    
+
+    * #### Aim 3; "I want to know that I am dealing with a reputable service and see previous customer reviews."
+
+* ### Code validation.
+    * #### W3 HTML Validator.
+        * All HTML code was put through the validator and did initially bring up sytanx error. Those have since been corrected and now pass the validator with no errors.
+    * #### Jigsaw CSS Validator.
+        * All CSS code have been put through the validator - it did highlight a parse code whereby an open curly brace was evident in the media queries. This has since peen corrected and passed validation.
+    * #### Lighthouse Testing.
+        * Results.
+            1. Main page results ![Lighthouse results of the main page](assets/images/lighthouse-main.JPG)
+            2. Deals page results ![Lighthouse results of the deals page](assets/images/lighthouse-deals.JPG)
+            3. Contact page results ![Lighthouse results of the contact page](assets/images/lighthouse-contact.JPG)
+            4. Thank you message page ![Lighthouse results of the thank you page](assets/images/lighthouse-thanks.JPG)
+            5. 404 page results ![Lighthouse results of the 404 error page](assets/images/lighthouse-404.JPG)
+
+### Supported screens and browsers.
+
 ### Further Testing.
+
+### Fixed bugs.
 ### Known Bugs.
     * Not responsive on iPad Air
 ***
