@@ -81,9 +81,14 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
         ![Image of the contact form](assets/images/contact-form.JPG)
 * ### Thank You Page
     1. Thank you message.
-        * In keeping with consistency, once a user submits the contact form, they will be met with an acknowledgement page thanking them for their submission.This page includes the main websites navbar and footer to encourage familiarity. It also includes a direct instruction link to head back to the site.
+        * In keeping with consistency, once a user submits the contact form, they will be met with an acknowledgement page thanking them for their submission. This page includes the main websites navigation menu and footer to encourage familiarity. It also includes a direct instruction link to head back to the site. At present it does not contain a database to receive the users details from the form but will be added once the developers knowledge base exapnds therefore a fictational receipt is placed in the forms 'action' instead.
         ![Image of the thank you page](assets/images/thank-you-page.JPG)
-
+* ### Future Features
+    - Whilst currently not in the developers expertise, as knowledge will expand, the following features are to be included for the website;
+        1. A carousel of holiday destinations in the hero image for sophistication.
+        2. An integration in the footer and contact page whereby if a user clicks on the email and phone icon - it will enable them to directly phone out from their phone or send an email from the email app on mobile devices.
+        3. A database to add to the current contact form action whereby it can store information using 'post' or 'get'  methods.
+        
 ## Technologies Used
 ***
 ### Languages Used
@@ -117,7 +122,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
     ![Image of the thank you page](assets/images/thank-you-page.JPG)
     
     * #### Aim 3; "I want to be able to see previous customer reviews and any social media presence."
-        - Passed - Users whilst being on the main page can scroll to the bottom and find (fictational) previous customer reviews with a heading of 'Here's what our customers say.' They are also able to see links in the footer which when clicked will guide them to our (fictational) social media platforms.
+        - Passed - Users whilst being on the main page can scroll to the bottom and find (fictational) previous customer reviews with a heading of 'Here's what our customers say.' They are also able to see links in the footer which when clicked will guide them externally to our (fictational) social media platforms whilst still keeping our website tab open. This is consistent across other media devices also.
         ![Image of customer reviews and social media links from the footer](documents/images/reviews-and-social-media.JPG)
 
 * ### Code validation.
