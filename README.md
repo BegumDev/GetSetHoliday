@@ -11,9 +11,9 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 ***
 - ### User stories
     - #### Visitor goals:
-        1. On initial entry to the website, I want to understand what this website is about and would like obvious information displaying it.
-        2. I want to be able to contact the organisation for booking enquiries.
-        3. I want to know that I am dealing with a reputable service and see previous customer reviews.
+        1. When I am on the website, I want to always be able to navigate across all pages easily.
+        2. I want to be able to see a contact form for the organisation for booking enquiries.
+        3. I want to be able to see previous customer reviews and any social media presence.
 
 - ### Design
     * #### Color Scheme
@@ -107,15 +107,18 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 ## Testing
 ***
 * ### Testing user stories from user experience (UX).
-    * #### Aim 1;
+    * #### Aim 1; "When I am on the website, I want to always be able to navigate across all pages easily."
+        - Passed - A user will be able to click on each individual page using the navbar. This navigation bar always stays fixed to the top of the device screen for ease of access despite scrolling down the page. For example, if the user whilst halfway down the main page decides they want to now see deals, then they can quite simply click onto the deals page using the navbar. Likewise this applies even whilst being on different pages, the user choose to hover between pages. This is consistent and responsive on various media devices.
+    ![Image of the navigation](documents/images/aim1.JPG)
 
-    * #### Aim 2; "I want to be able to contact the organisation for booking enquiries."
-    - Passed - A user can click on the contact page in the header and will see a contact form. Placeholder text guides a user as to what information is needed in each field. Once a user inputs all information they can click submit. The form will only work if all fields have data and in the event it doesn't, it will flag a 'required' message in the field data is ommitted. Once all fields have data, the user will recieve a 'thank you' message to confirm the form has been submitted and will guide back to the homepage. This test result is consistent across various media devices also.
+    * #### Aim 2; "I want to be able to see a contact form for the organisation for booking enquiries."
+        - Passed - A user can click on the contact page in the header and will see a contact form. Placeholder text guides a user as to what information is needed in each field. Once a user inputs all information they can click submit. The form will only work if all fields have data and in the event it doesn't, it will flag a 'required' message in the field data is ommitted. Once all fields have data, the user will recieve a 'thank you' message to confirm the form has been submitted and will guide back to the homepage. This test result is consistent across various media devices also.
     ![Image of contact form missing a field](assets/images/user-stories-2.JPG)
     ![Image of the thank you page](assets/images/thank-you-page.JPG)
     
-
-    * #### Aim 3; "I want to know that I am dealing with a reputable service and see previous customer reviews."
+    * #### Aim 3; "I want to be able to see previous customer reviews and any social media presence."
+        - Passed - Users whilst being on the main page can scroll to the bottom and find (fictational) previous customer reviews with a heading of 'Here's what our customers say.' They are also able to see links in the footer which when clicked will guide them to our (fictational) social media platforms.
+        ![Image of customer reviews and social media links from the footer](documents/images/reviews-and-social-media.JPG)
 
 * ### Code validation.
     * #### W3 HTML Validator.
