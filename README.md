@@ -23,6 +23,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
         - The fonts used are taken from google fonts named 'Poppins' with a fall-back of sans-serif.
     * #### Imagery
         - The hero image upon landing on the main page is intended to associate with holidays purposely to captivate the users attention. Sunglasses on a beach with the sea in the back can be universally understood to associate with holidays.
+        - 
 
 - ### Wireframes
     <details><summary>Main page wireframe:</summary>
