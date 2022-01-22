@@ -118,8 +118,8 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 
     * #### Aim 2; "I want to be able to see a contact form for the organisation for booking enquiries."
         - Passed - A user can click on the contact page in the header and will see a contact form. Placeholder text guides a user as to what information is needed in each field. Once a user inputs all information they can click submit. The form will only work if all fields have data and in the event it doesn't, it will flag a 'required' message in the field data is ommitted. Once all fields have data, the user will recieve a 'thank you' message to confirm the form has been submitted and will guide back to the homepage. This test result is consistent across various media devices also.
-    ![Image of contact form missing a field](documents/images/user-stories-2.JPG)
-    ![Image of the thank you page](documents/images/thank-you-page.JPG)
+        ![Image of contact form missing a field](documents/images/user-stories-2.JPG)
+        ![Image of the thank you page](documents/images/thank-you-page.JPG)
     
     * #### Aim 3; "I want to be able to see previous customer reviews and any social media presence."
         - Passed - Users whilst being on the main page can scroll to the bottom and find (fictational) previous customer reviews with a heading of 'Here's what our customers say.' They are also able to see links in the footer which when clicked will guide them externally to our (fictational) social media platforms whilst still keeping our website tab open. This is consistent across other media devices also.
@@ -142,16 +142,14 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 * #### Browsers
     * Google chrome, Microsft Edge, Mozilla Firefox, Safari and Internet Explorer.
 * #### Devices
-    * iPad Mini, iPhone 12 Pro, Samsung Galaxy S20 Ultra, Samsung Galaxy A51/A71, iPhone X, iPad, iPad Pro.
-    * fix on iPad Air, Galaxy fold, 
-### Further Testing.
-
+    * iPad Mini, iPhone 12 Pro, Samsung Galaxy S20 Ultra, Samsung Galaxy A51/A71, iPhone X, iPad, iPad Pro, Samsung Galaxy Fold, iPad Air.
 ### Fixed bugs.
-### Known Bugs.
-    * Not responsive on iPad Air
-***
+- Gallery of images was spilling out to the right on an iPad Air, fixed by setting a media screen to adjust it.
+
 ## Deployment
 ***
+### Gitpod
+
 ### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps;
@@ -163,24 +161,6 @@ The project was deployed to GitHub Pages using the following steps;
 5. The page will automatically refresh.
 6. Scroll back through the page to locate the now published site [link](https://begumdev.github.io/GetSetHoliday/) in the 'GitHub Pages' section.
 
-### Forking the GitHub Repository
-
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
-
-### Making a Local Clone
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click 'code' located left of the green 'Gitpod' button.
-3. To clone the repository using HTTPS, under "Clone with HTTPS", click on the copy icon right of the link.
-4. Open Git Bash.
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
-7. Press Enter. Your local clone will be created.
-***
 ## Credits
 ***
 ### Code
