@@ -6,17 +6,6 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 
 ![Image of the website on desktop, laptop, tablet and mobile](documents/images/AmIResponsiveImg.JPG)
 
-## Table of Contents
-***
-* ### [User Experience UX](#https://github.com/BegumDev/GetSetHoliday#user-experience-ux)
-* ### Features
-* ### Technologies Used
-* ### Testing
-* ### Deployment
-* ### Credit
-
-
-
 ## User Experience (UX)
 ***
 - ### User stories
