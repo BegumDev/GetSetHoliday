@@ -606,6 +606,14 @@ textarea {
         font-size: 24px;
     }
 
+    .reasons-to-book h3 {
+        margin-top: 20px;
+    }
+
+    .testimonials h2 {
+        margin-top: 20px;
+    }
+
     /*--------------------Page 2 adjustments-----*/
     .thailand {
         background: url("https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg") no-repeat center center;
@@ -798,6 +806,14 @@ textarea {
         font-size: 24px;
     }
 
+    .reasons-to-book h3 {
+        margin-top: 20px;
+    }
+
+    .testimonials h2 {
+        margin-top: 20px;
+    }
+
     /*--------------------page 2 adjustments-----*/
     .thailand {
         background: url("https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg") no-repeat center center;
@@ -975,6 +991,14 @@ textarea {
         font-size: 24px;
     }
 
+    .reasons-to-book h3 {
+        margin-top: 20px;
+    }
+
+    .testimonials h2 {
+        margin-top: 20px;
+    }
+
     /*--------------------page 2 adjustments-----*/
     .thailand {
         background: url("https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg") no-repeat center center;
@@ -1060,6 +1084,15 @@ textarea {
 
 /*---------------------------------------------------------On Media Screens 1470px - 2000px*/
 @media screen and (min-width: 1780px) and (max-width: 2300px) {
+
+    /*--------------------Page 1 adjustments---------------*/
+    .reasons-to-book h3 {
+        margin-top: 20px;
+    }
+
+    .testimonials h2 {
+        margin-top: 20px;
+    }
 
     /*---------------------Page 3 adjustments---------------*/
     .gallery {
