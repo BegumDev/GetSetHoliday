@@ -136,7 +136,6 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
             2. Deals page results ![Lighthouse results of the deals page](documents/images/lighthouse-deals.JPG)
             3. Contact page results ![Lighthouse results of the contact page](documents/images/lighthouse-contact.JPG)
             4. Thank you message page ![Lighthouse results of the thank you page](documents/images/lighthouse-thanks.JPG)
-            5. 404 page results ![Lighthouse results of the 404 error page](documents/images/lighthouse-404.JPG)
 
 ### Supported screens and browsers.
 * #### Browsers
@@ -177,18 +176,39 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 ***
 ### Code
 * The hero image on the main page was inspired by the 'Love Running Project' from Code Institute.
+* Bootstrap was used for responsiveness.
 ### Content
 * All content was written by myself.
 ### Media
-1. Deals Page Collage Images (in order of left to right if viewed on laptop);
-    * Family in the water - Natalya Zaritskaya [www.unsplash.com](https://unsplash.com/)
-    * Mountains - Rohit Tandon [www.unsplash.com](https://unsplash.com/)
-    * Sandy Walkway - Chris Galbraith [www.unsplash.com](https://unsplash.com/)
-    * Sunset over water - Nathan Dumlao [www.unsplash.com](https://unsplash.com/)
-    * Mother and baby near a mountain - Rachel Cook [www.unsplash.com](https://unsplash.com/)
-    * Holiday resort - Kelsey Curtis [www.unsplash.com](https://unsplash.com/)
-    * Friends under an umbrella - Rayyu Maldives [www.unsplash.com](https://unsplash.com/)
-    * Surfers on a beach - Sebastian Staines [www.unsplash.com](https://unsplash.com/)
+#### All images are used for educational purposes only - all credit to the owners are listed below;
+1. All deals images;
+    * Hero-image (sunglass on a beach) - Ethan Robertson [Unsplash Website](https://unsplash.com/)
+    * Bali image (on the main page) - Agoda [Agoda Website](https://pix10.agoda.net/hotelImages/5673739/0/84a6695df6d88a1bdaf2b5e5f4abfc5f.jpg?s=1024x768)
+    * Tenerife image (on the main page) - [Travel Republic Website](https://hi-cdn.t-rp.co.uk/images/hotels/117372/0?width=750&height=400&crop=true)
+    * Dubai image (on the main page) - [FlightPro Website](https://www.flightspro.co.uk/wp-content/uploads/2021/02/dubai.jpeg)
+    * Thailand image (on the deals page) - [Pullman Phuket Arcadia](https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2020/02/20105458/Best-Phuket-resort-in-Thailand.jpg)
+    * South Africa image (on the deals page) - [The Luxury Travel Book Website](https://theluxurytravelbook.com/storage/media/images/general/og_large/luxury-villa-cape-town-south-africa-clifton-second-beach-18-5c0e901d9eccf.jpg)
+    * Spain image (on the deals page) - [Majorca Beaches Website](https://www.mallorca-beaches.com/wp-content/uploads/palma-nova-mallorca-780x470.jpg)
+    * Italy image (on the deals page) - [Travel Passionate Website](https://travelpassionate.com/wp-content/uploads/2019/04/Panoramic-view-in-Otranto-province-of-Lecce-in-the-Salento-peninsula-Puglia-Apulia-Italy.-Image-min.jpg)
+
+2. Deals Page Collage Images (in order of left to right if viewed on laptop);
+    * Family in the water - Natalya Zaritskaya [Unsplash Website](https://unsplash.com/)
+    * Mountains - Rohit Tandon [Unsplash Website](https://unsplash.com/)
+    * Sandy Walkway - Chris Galbraith [Unsplash Website](https://unsplash.com/)
+    * Sunset over water - Nathan Dumlao [Unsplash Website](https://unsplash.com/)
+    * Mother and baby near a mountain - Rachel Cook [Unsplash Website](https://unsplash.com/)
+    * Holiday resort - Kelsey Curtis [Unsplash Website](https://unsplash.com/)
+    * Friends under an umbrella - Rayyu Maldives [Unsplash Website](https://unsplash.com/)
+    * Surfers on a beach - Sebastian Staines [Unsplash Website](https://unsplash.com/)
+
+3. Contact page
+    * Background image - Sebastian Pena Lambarri [Unsplash Website](https://unsplash.com/)
+4. Thank You Page
+    * Background image - Khadeeja Yasser [Unsplash Website](https://unsplash.com/)
+
+#### Font Icons
+- All font icons used were thanks to Font Awesome [Font Awesome](https://fontawesome.com/)
+
 ### Acknowledgements
 * My peers in the Slack community have been great help in asnwering anything needed.
 * My mentor Rohit Sharma has been very supportive with great tips.
