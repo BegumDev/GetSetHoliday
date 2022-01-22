@@ -142,16 +142,28 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 * #### Browsers
     * Google chrome, Microsft Edge, Mozilla Firefox, Safari and Internet Explorer.
 * #### Devices
-    * iPad Mini, iPhone 12 Pro, Samsung Galaxy S20 Ultra, Samsung Galaxy A51/A71, iPhone X, iPad, iPad Pro, Samsung Galaxy Fold, iPad Air.
+    * iPad Mini, iPhone 12 Pro, Samsung Galaxy S20 Ultra, Samsung Galaxy A51/A71, iPhone X, iPad, iPad Pro, Samsung Galaxy Fold, iPad Air and iPhone 12.
 ### Fixed bugs.
 - Gallery of images was spilling out to the right on an iPad Air, fixed by setting a media screen to adjust it.
 
 ## Deployment
 ***
+### Create the initial repository
+* Once you sign into Github, click on 'new' on the left side of the page.
+* Add a template if needed and a repository name with an optional description
+* click 'create' repository
+* Once created 
+
 ### Gitpod
+* The website was developed in Gitpod. Once the inital repository was created in Github and the workspace has been opened for the first time using the green gitpod button, thereafter the repository can be accessed from Gitpod by clicking on the 'dashboard' and finding the repo you need. Once you find the repo - you can click on the vertical 3 dots next to it and then 'open.'
+
+* Once in the workspace in, directories were added using git command 'mkdir' and the directory name, files were added using 'touch' and the file name. Once content was added to the files, this was pushed to Github in the following steps using git commands;
+    * 'git add (+ file name)' - for adding individual files or 'git add .' for adding several files
+    * 'git status' can be used to check what files have been added
+    * 'git commit -m (+ commit message)' will commit the files
+    * 'git push' will push these files up to Github
 
 ### GitHub Pages
-
 The project was deployed to GitHub Pages using the following steps;
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
