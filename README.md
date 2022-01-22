@@ -178,6 +178,12 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
     * #### W3 HTML Validator.
         * All HTML code was put through the validator and did initially bring up sytanx error. Those have since been corrected and now pass the validator with no errors.
     
+    * #### Nu HTML5 Validator.
+        <details><summary>Results</summary>
+
+        ![Image of HTML5 code passing validation](documents/images/Validator-results.JPG)
+        </details>
+    
     * #### Jigsaw CSS Validator.
         * All CSS code have been put through the validator - it did highlight a parse code whereby an open curly brace was evident in the media queries. This has since peen corrected and passed validation.
     
