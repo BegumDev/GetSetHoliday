@@ -22,8 +22,13 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
     * #### Typography
         - The fonts used are taken from google fonts named 'Poppins' with a fall-back of sans-serif.
     * #### Imagery
-        - The hero image upon landing on the main page is intended to associate with holidays purposely to captivate the users attention. Sunglasses on a beach with the sea in the back can be universally understood to associate with holidays.
-        - 
+        1. ##### Main Page
+            - The hero image upon landing on the main page is intended to associate with holidays purposely to captivate the users attention. Sunglasses on a beach with the sea in the back can be universally understood to associate with holidays.
+            - In each of the deals boxes, roughly 50% of the deals information is an image of the holiday in question, this is to provide visual enhancement in the deal advertised.
+        2. ##### Deals Page
+            - A display of customers photos in a gallery from is intended to create assurance that this is a reputable organisation.
+        3. ##### Contact Page
+            - The background in the contact form is designed to subconsciously make the feel user feel as they are there. This is to further incline them to get in touch.
 
 - ### Wireframes
     <details><summary>Main page wireframe:</summary>
