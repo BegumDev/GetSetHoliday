@@ -152,7 +152,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 * Once you sign into Github, click on 'new' on the left side of the page.
 * Add a template if needed and a repository name with an optional description
 * click 'create' repository
-* Once created 
+* Once created - click on the green 'Gitpod' button which will open your workspace. (Note that you only need to access the workspace using Github for first time)
 
 ### Gitpod
 * The website was developed in Gitpod. Once the inital repository was created in Github and the workspace has been opened for the first time using the green gitpod button, thereafter the repository can be accessed from Gitpod by clicking on the 'dashboard' and finding the repo you need. Once you find the repo - you can click on the vertical 3 dots next to it and then 'open.'
@@ -164,14 +164,14 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
     * 'git push' will push these files up to Github
 
 ### GitHub Pages
-The project was deployed to GitHub Pages using the following steps;
+* The project was deployed to GitHub Pages using the following steps;
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
-2. At the top of the Repository, click on the 'settings' button.
-3. Scroll down the Settings page until you find the "GitHub Pages" Section.
-4. Under 'Source', click the dropdown called 'None' and select the branch as 'main.'
-5. The page will automatically refresh.
-6. Scroll back through the page to locate the now published site [link](https://begumdev.github.io/GetSetHoliday/) in the 'GitHub Pages' section.
+    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
+    2. At the top of the Repository, click on the 'settings' button.
+    3. Scroll down the settings page until you find the "GitHub Pages" section.
+    4. Under 'Source', click the dropdown called 'None' and select the branch as 'Main.'
+    5. The page will automatically refresh.
+    6. Scroll back through the page to locate the now published site [link](https://begumdev.github.io/GetSetHoliday/) in the 'GitHub Pages' section.
 
 ## Credits
 ***
