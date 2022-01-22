@@ -256,7 +256,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 ### Code
 * The hero image on the main page was inspired by the 'Love Running Project' from Code Institute.
 * Bootstrap was used for responsiveness.
-* Favicon code block was used was to integrate the icon as seen in the tab of the webpage.
+* Favicon code block was used was to integrate the icon as seen in the tab of the webpage. This was not mine.
 
 ### Content
 * All content was written by myself.
