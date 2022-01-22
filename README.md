@@ -17,7 +17,8 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 
 - ### Design
     * #### Color Scheme
-        -  The 3 main colours used are hex colours 2 shades of grey; #d2dbde and #777777, 2 shades of blue; #8debff, #84b7ff and #ffffff white .
+        -  The main colours used are hex colours 2 shades of grey; #d2dbde and #777777, 2 shades of blue; #8debff, #84b7ff and #ffffff white .
+
         ![Image of a colour pallette](documents/images/colour-pallette.png)
     * #### Typography
         - The fonts used are taken from google fonts named 'Poppins' with a fall-back of sans-serif.
@@ -60,7 +61,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
         ![Image of Navbar](documents/images/navbar.JPG)
 
     2. About us section. 
-        * Hero image with a slogan - purposely placed is a simplified image of sunglasses on a beach to denote holidays. The ommitance of any other images is deliberate to captivate the users attention inviting them to read the slogan.The slogan itself explains that this is a holiday booking website.
+        * Hero image with a slogan - purposely placed is a simplified image of sunglasses on a beach to denote holidays. The ommitance of any other images is deliberate to captivate the users attention inviting them to read the slogan. The slogan itself explains that this is a holiday booking website.
         * Explanatory text - text to supplement the hero image to outline the nature of the website.
 
         ![Image of the about-us section](documents/images/about-us.JPG)
@@ -154,7 +155,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 * ### Testing user stories from user experience (UX).
     * #### Aim 1; "When I am on the website, I want to always be able to navigate across all pages easily."
         <details><summary>Passed</summary>
-        A user will be able to click on each individual page using the navbar. This navigation bar always stays fixed to the top of the device screen for ease of access despite scrolling down the page. For example, if the user whilst halfway down the main page decides they want to now see deals, then they can quite simply click onto the deals page using the navbar. Likewise this applies even whilst being on different pages, the user choose to hover between pages. This is consistent and responsive on various media devices.
+        A user will be able to click on each individual page using the navbar. This navigation bar always stays fixed to the top of the device screen for ease of access despite scrolling down the page. For example, if the user whilst halfway down the main page decides they want to now see deals, then they can quite simply click onto the deals page using the navbar. Likewise this applies even whilst being on different pages, the user can choose to hover between pages. This is consistent and responsive on various media devices.
 
         ![Image of the navigation](documents/images/aim1.JPG)
         </details>
@@ -212,6 +213,9 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 
 ### Fixed bugs.
 - Gallery of images was spilling out to the right on an iPad Air, fixed by setting a media screen to adjust it.
+- Parse error found whilst validating CSS in Jigsaw, missing open curly bracket added to correct the error.
+- When starting the website before Bootstrap was introduced, the website was not responsive as it should be therefore Bootstrap was introduced and in conjunction with media queries - has since been fixed.
+- 'Aria-hidden' was missing from the i-classes and has since been added. 
 
 ## Deployment
 ***
@@ -225,7 +229,7 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 * The website was developed in Gitpod. Once the inital repository was created in Github and the workspace has been opened for the first time using the green gitpod button, thereafter the repository can be accessed from Gitpod by clicking on the 'dashboard' and finding the repo you need. Once you find the repo - you can click on the vertical 3 dots next to it and then 'open.'
 
 * Once in the workspace, directories were added using git command 'mkdir' and the directory name, files were added using 'touch' and the file name. Once content was added to the files, this was pushed to Github in the following steps using git commands;
-    * 'git add (+ file name)' - for adding individual files or 'git add .' for adding several files
+    * 'git add (+ file name)' for adding individual files or 'git add .' for adding several files
     * 'git status' can be used to check what files have been added
     * 'git commit -m (+ commit message)' will commit the files
     * 'git push' will push these files up to Github
