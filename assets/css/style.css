@@ -262,6 +262,10 @@ footer {
     font-size: 20px;
 }
 
+li i{
+    margin-right: 8px;
+}
+
 /*---------------------------------------------------------------------------------------Section Style Page 2------*/
 .deals-section {
     min-height: 500px;
