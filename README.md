@@ -167,12 +167,15 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
             2. Deals page results ![Lighthouse results of the deals page](documents/images/lighthouse-deals.JPG)
             3. Contact page results ![Lighthouse results of the contact page](documents/images/lighthouse-contact.JPG)
             4. Thank you message page ![Lighthouse results of the thank you page](documents/images/lighthouse-thanks.JPG)
+    * #### Devtools
+        * Google chrome Devtools was used throughout the development process to be able to analyse how the website looks on other media devices aswell as using to help locate any bugs.
 
 ### Supported screens and browsers.
 * #### Browsers
     * Google chrome, Microsft Edge, Mozilla Firefox, Safari and Internet Explorer.
 * #### Devices
     * iPad Mini, iPhone 12 Pro, Samsung Galaxy S20 Ultra, Samsung Galaxy A51/A71, iPhone X, iPad, iPad Pro, Samsung Galaxy Fold, iPad Air and iPhone 12.
+
 ### Fixed bugs.
 - Gallery of images was spilling out to the right on an iPad Air, fixed by setting a media screen to adjust it.
 
@@ -187,11 +190,13 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 ### Gitpod
 * The website was developed in Gitpod. Once the inital repository was created in Github and the workspace has been opened for the first time using the green gitpod button, thereafter the repository can be accessed from Gitpod by clicking on the 'dashboard' and finding the repo you need. Once you find the repo - you can click on the vertical 3 dots next to it and then 'open.'
 
-* Once in the workspace in, directories were added using git command 'mkdir' and the directory name, files were added using 'touch' and the file name. Once content was added to the files, this was pushed to Github in the following steps using git commands;
+* Once in the workspace, directories were added using git command 'mkdir' and the directory name, files were added using 'touch' and the file name. Once content was added to the files, this was pushed to Github in the following steps using git commands;
     * 'git add (+ file name)' - for adding individual files or 'git add .' for adding several files
     * 'git status' can be used to check what files have been added
     * 'git commit -m (+ commit message)' will commit the files
     * 'git push' will push these files up to Github
+
+* At all times the website can be previewed by running the command 'python3 -m http.server' both within the workspace and in a separate browser.
 
 ### GitHub Pages
 * The project was deployed to GitHub Pages using the following steps;
@@ -208,8 +213,11 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 ### Code
 * The hero image on the main page was inspired by the 'Love Running Project' from Code Institute.
 * Bootstrap was used for responsiveness.
+* Favicon code block was used was to integrate the icon as seen in the tab of the webpage.
+
 ### Content
 * All content was written by myself.
+
 ### Media
 #### All images are used for educational purposes only - all credit to the owners are listed below;
 1. All deals images;
@@ -243,3 +251,5 @@ Targeted to UK holiday makers, this fictational website is designed to advertise
 ### Acknowledgements
 * My peers in the Slack community have been great help in asnwering anything needed.
 * My mentor Rohit Sharma has been very supportive with great tips.
+* Tutor support was very helpful through the development process.
+* Code Institute learning material has been incredibly helpful in building this website.
